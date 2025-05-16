@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "malvin~k5QjWZab#BSfJMqJ1MTcAVcHhhabQ0lV776K-kbtJIU772drIvM4",
+SESSION_ID: "",
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || "!",
 // add your prifix for bot   
@@ -46,7 +46,7 @@ MODE: process.env.MODE || "public",
        ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/xshsmk",
 // add img for alive msg
 
-        LIVE_MSG: process.env.LIVE_MSG || "> 𝓥𝓲𝓬𝓽𝓸𝓻 ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ✦ ғʀᴏᴍ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/XdKing2/MALVIN-XD",
+        LIVE_MSG: process.env.LIVE_MSG || "> 𝓥𝓲𝓬𝓽𝓸𝓻 ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦https://github.com/XdKing2/MALVIN-XD✦ ғʀᴏᴍ https://github.com/XdKing2/MALVIN-XD ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/XdKing2/MALVIN-XD",
 // add alive msg here 
 
 
